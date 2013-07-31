@@ -1,3 +1,7 @@
+## Despre
+
+Forkuit de [aici](https://github.com/SaltwaterC/romanian-programmers-mac).
+
 ## Instalare / Actualizare
 
 ```bash
